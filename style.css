@@ -20,7 +20,7 @@ main {
 }
 
 main >  section {
-    margin: 30px 0; /*Dei uma margen aqui na section já que tirei o height do main para caber tudo na tela sem scrool*/
+    margin: 30px 0;
 }
 
 main > section img {
